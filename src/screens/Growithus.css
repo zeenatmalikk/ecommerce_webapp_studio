@@ -1,0 +1,56 @@
+.grow{
+    height: 80px;
+   margin-inline:47%;
+   margin-top: 5%;
+}
+
+.strike{
+    text-decoration: line-through blue 4px;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+.maintxt{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 58px;
+    color:#031043;
+    font-weight: 700;
+}
+
+.field{
+    height: 190px;
+}
+
+.cardstyle{
+    width: 450px;
+    margin-inline: 1%;
+}
+
+.name{
+    font-size:22px ;
+    font-family:  Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif; ;
+    line-height: 28px;
+    font-weight: 600 ;
+   color: #031043;
+   text-align: center;
+}
+
+.desc{
+    font-family: Aleo, serif, Helvetica, Arial, sans-serif;;
+    font-size: 17px;
+    line-height: 30px;
+    color: #3e484e;
+    font-weight: 400;
+    text-align: center;
+}
+
+.learnmore{
+    font-family:  serif, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #e93237;
+    text-align: center;
+}

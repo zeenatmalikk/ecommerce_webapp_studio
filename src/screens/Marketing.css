@@ -1,0 +1,46 @@
+.marketing {
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  line-height: 58px;
+  text-align: center;
+  color: #112549;
+}
+
+.desc {
+  font-family: serif, Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  line-height: 37px;
+  font-weight: 400;
+  color: #55626a;
+  text-align: center;
+}
+
+.compimg {
+  height: 100px;
+}
+
+.perc {
+  font-size: 56px;
+  font-family: serif, Helvetica, Arial, sans-serif;
+  line-height: 2px;
+  color:#112549;
+  
+}
+
+.incr{
+    font-size: 20px;
+  font-weight: 400;
+  line-height: 1px;
+  color: #3e484e;
+  margin-left: 5%;
+}
+
+.compname{
+    height: 40px;
+   margin-left: 6%;
+}
+
+.arr{
+  height: 35px;
+  margin-top: 12%;
+}

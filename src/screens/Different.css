@@ -1,0 +1,128 @@
+.diff {
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  color: #031043;
+  text-align: center;
+  margin-top: 7%;
+}
+
+.icondet {
+  height: 40px;
+  display: flex;
+  margin-inline: 10%;
+  margin-top: 2%;
+ 
+}
+
+.title {
+  margin-inline: 4%;
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  line-height: 28px;
+  color: #031043;
+  font-weight: 600;
+  margin-top: 1%;
+}
+
+.title1 {
+  margin-left: 3%;
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  line-height: 28px;
+  color: #031043;
+  font-weight: 600;
+  margin-top: 2%;
+}
+
+.title2 {
+  margin-left: 5%;
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  line-height: 28px;
+  color: #031043;
+  font-weight: 600;
+  margin-top: 2%;
+}
+
+.title3 {
+  margin-left: 8%;
+  font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  line-height: 28px;
+  color: #031043;
+  font-weight: 600;
+  margin-top: 2%;
+}
+
+.about0{
+    margin-left: 2%;
+    font-family: serif, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    color: #3e484e;
+    margin-right: 2%;
+    margin-top: 2%;
+    
+}
+
+.about {
+  margin-right: 2%;
+  font-family: serif, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  color: #3e484e;
+  margin-top: 2%;
+}
+
+.about2 {
+  margin-left: 3%;
+  font-family: serif, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  color: #3e484e;
+  margin-top: 2%;
+  
+}
+
+.about3 {
+  margin-left: 5%;
+  font-family: serif, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  color: #3e484e;
+  margin-right: 1%;
+  margin-top: 2%;
+}
+
+.help{
+    text-align: center;
+    font-family: serif, Helvetica, Arial, sans-serif;
+    font-size: 39px;
+    line-height: 43px;
+    color: #031043;
+    font-weight: 600;
+    margin-top: 5%;
+}
+
+.checktext{
+    font-family: serif, Helvetica, Arial, sans-serif ;
+    font-size: 22px;
+    line-height: 37px;
+    color: #031043;
+    font-weight: 400;
+  
+}
+ul{
+    list-style: none;
+}
+
+.ic{
+    font-size: 30px;
+  margin-right: 2%;
+    color: #F48788;
+}

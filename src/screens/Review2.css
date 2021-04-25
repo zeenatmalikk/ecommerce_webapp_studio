@@ -1,0 +1,62 @@
+.fab{
+    height: 650px;
+    margin-left: 4%;
+}
+
+.inc{
+    font-family: Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+    font-size: 68px;
+    line-height: 82px;
+    font-weight: 700;
+    color: #031043;
+    margin-right: 5%;
+}
+
+.re{
+    font-family: serif, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #3e484e
+}
+
+.body{
+    font-family: serif, Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    line-height: 43px;
+    color: #031043;
+    font-weight: 400;
+}
+
+.name2{
+    height: 60px;
+    margin-top: 4%;
+}
+
+.strategies{
+    font-family: Aleo, serif, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3e484e;
+    margin-top: 3%;
+}
+
+.seo{
+    font-size: 11px;
+    line-height: 30px;
+    background-color: #031043;
+    color: white;
+    height: 5%;
+    width: 10%;
+    margin-inline: 2%;
+    font-family:  Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+}
+.seo2{
+    font-size: 11px;
+    line-height: 30px;
+    background-color: #031043;
+    color: white;
+    height: 5%;
+    width: 19%;
+    margin-inline: 2%;
+    font-family:  Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif;
+}
